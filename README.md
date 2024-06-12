@@ -9,7 +9,7 @@ my approach is going to be simple. get familiar with the library/framework. thin
 
 good luck to me! let's see how far i can go.
 
-## Technologies, Libraries, or Frameworks, I learned or worked with, during these 100 days.
+## technolgoes, libraries, or frameworks, i learned or worked with, during these 100 days.
 
 
-## Projects built
+## projects built
