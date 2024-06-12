@@ -21,4 +21,4 @@ good luck to me! let's see how far i can go.
 
 
 ### projects built
-- [Marketplace](https://github.com/ashutosh-dave/Marketplace)
+- [Marketplace](https://github.com/ashutosh-dave/Marketplace) - e-Commerce store built using PHP, JavaScript, jQuery, AJAX, and MySQL.
