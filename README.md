@@ -10,6 +10,8 @@ my approach is going to be simple. get familiar with the library/framework. thin
 good luck to me! let's see how far i can go.
 
 ### technologies, libraries, or frameworks, i learned or worked with, during these 100 days.
+- first week i am going to spend some time working with php, mySQL, and javascript. i have never built any projects using php, so i am using php for a full-stack project.
 
 
 ### projects built
+- Marketplace
