@@ -1,4 +1,4 @@
-# 100-days-of-webdev
+# 100-weeks-of-webdev
 
 *somewhere between learning and re-learning*
 
