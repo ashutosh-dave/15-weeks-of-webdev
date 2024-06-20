@@ -14,6 +14,8 @@ good luck to me! let's see how far i can go.
 *courses*:
 - [JavaScript Course]()
 - [Web Dev Bootcamp]()
+- [Back-end Course]()
+- [TypeScript Course]()
 
   
 ### weekly overview
