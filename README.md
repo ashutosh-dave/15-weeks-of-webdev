@@ -11,6 +11,11 @@ good luck to me! let's see how far i can go.
 
 ### references, videos, articles, and blogs i learned from. for the due credits :) 
 
+*Courses*:
+- [JavaScript Course]()
+- [Web Dev Bootcamp]()
+
+  
 ### weekly overview
 - first week, i mostly worked with PHP. never built any personal/portfolio project using php, so decided to give it a shot. 
 
