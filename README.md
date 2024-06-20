@@ -9,7 +9,7 @@ my approach is going to be simple. get familiar with the library/framework. thin
 
 good luck to me! let's see how far i can go.
 
-### references, videos, articles, and blogs i learned from. for the due credits :) 
+### courses, books, videos, articles, and blogs i learned from. for the due credits :) 
 
 *courses*:
 - [JavaScript Course]()
