@@ -36,6 +36,7 @@ good luck to me! let's see how far i can go. 🚀
 | languages | frameworks | libraries | databases | tools |
 |:---------:|:----------:|:---------:|:---------:|:-----:|
 | ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+|||![jqeury](https://img.shields.io/badge/jquery)|||
 
 ### projects built 🛠️
 - [marketplace](https://github.com/ashutosh-dave/marketplace): e-commerce store built using php, javascript, jquery, ajax, and mysql.
