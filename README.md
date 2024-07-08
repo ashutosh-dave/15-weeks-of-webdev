@@ -31,12 +31,18 @@ good luck to me! let's see how far i can go. 🚀
 ### weekly overview 📅
 - __*week-1*__: primary target was to brush up the fundamentals for a kickstart. focused a lot on javascript. started working on [marketplace](https://github.com/ashutosh-dave/marketplace). also, got my hands dirty with react.js.
 
-### technologies, libraries, or frameworks i learned or worked with during these 15 weeks 💻
+### everything i learned and worked with
 
-| languages | frameworks | libraries | databases | tools |
-|:---------:|:----------:|:---------:|:---------:|:-----:|
-| ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-|||![jqeury](https://img.shields.io/badge/jquery)|||
+**languages:**
+- php
+- javascript
+- python
+- java
+- golang
+
+**frameworks:**
+- bootstrap
+- foundation
 
 ### projects built 🛠️
 - [marketplace](https://github.com/ashutosh-dave/marketplace): e-commerce store built using php, javascript, jquery, ajax, and mysql.
