@@ -13,7 +13,7 @@ good luck to me! let's see how far i can go. 🚀
 ## table of contents
 - [courses, books, videos, articles, and blogs i learned from](#courses-books-videos-articles-and-blogs-i-learned-from)
 - [weekly overview](#weekly-overview)
-- [technologies, libraries, or frameworks](#technologies-libraries-or-frameworks-i-learned-or-worked-with-during-these-15-weeks)
+- [technologies, libraries, or frameworks](#everything-i-learned-and-worked-with)
 - [projects built](#projects-built)
 
 ### courses, books, videos, articles, and blogs i learned from 📚
@@ -34,15 +34,24 @@ good luck to me! let's see how far i can go. 🚀
 ### everything i learned and worked with
 
 **languages:**
-- php
-- javascript
-- python
-- java
-- golang
+- PHP
+- JavaScript
+- Python
+- Java
+- GoLang
 
-**frameworks:**
-- bootstrap
-- foundation
+**frameworks & libraries:**
+- Bootstrap
+- Foundation
+
+**database:**
+- MySQL
+- PostgreSQL
+- MongoDB
+
+**tools:**
+- Git
+- Postman
 
 ### projects built 🛠️
 - [marketplace](https://github.com/ashutosh-dave/marketplace): e-commerce store built using php, javascript, jquery, ajax, and mysql.
