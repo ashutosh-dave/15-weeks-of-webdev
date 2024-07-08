@@ -1,18 +1,24 @@
-# 15-weeks-of-webdev
+# 15 Weeks of Web Development 🚀
 
-*somewhere between learning and re-learning*
+*Somewhere between learning and re-learning.*
 
-it's going to be interesting an journey. my current workplace requires me to write lots of php and jQuery. but i am curious about all the hyped up tech, libraries, and frameworks. if i don't get to work with them, i should at least give them a shot. learn new things as much as i can. and of course build some cool projects around them.
+It's going to be an interesting journey. My current workplace requires me to write lots of PHP and jQuery, but I am curious about all the hyped-up tech, libraries, and frameworks. If I don't get to work with them, I should at least give them a shot. Learn new things as much as I can and, of course, build some cool projects around them.
 
-### starting from, july 8, 2024.
+### Starting from July 8, 2024.
 
-my approach is going to be simple. get familiar with the library/framework. think of a small project. build it. and gradually increase the complexity of the projects. i am not solidifying what i will learn, and what i won't. i am keeping this journey as interesting and as flexible as it can be, because it's a fun lil challenge. learning is the primary goal. also, dealing with the fomo of all the latest and hyped up framework and libraries too. i have bought numerous courses too. i do want to finish them, or at least get some value out of them.
+My approach is going to be simple: get familiar with the library/framework, think of a small project, build it, and gradually increase the complexity of the projects. I am not solidifying what I will learn and what I won't. I am keeping this journey as interesting and flexible as it can be because it's a fun little challenge. Learning is the primary goal, and dealing with the FOMO of all the latest and hyped-up frameworks and libraries too. I have bought numerous courses too. I do want to finish them, or at least get some value out of them.
 
-good luck to me! let's see how far i can go.
+Good luck to me! Let's see how far I can go. 🚀
 
-### courses, books, videos, articles, and blogs i learned from. for the due credits :) 
+## Table of Contents
+- [Courses, Books, Videos, Articles, and Blogs](#courses-books-videos-articles-and-blogs-i-learned-from)
+- [Weekly Overview](#weekly-overview)
+- [Technologies, Libraries, or Frameworks](#technologies-libraries-or-frameworks-i-learned-or-worked-with-during-these-15-weeks)
+- [Projects Built](#projects-built)
 
-*courses*:
+### Courses, Books, Videos, Articles, and Blogs I Learned From 📚
+
+**Courses**:
 - [JavaScript Course]()
 - [Web Dev Bootcamp]()
 - [Back-end Specialization]()
@@ -21,17 +27,23 @@ good luck to me! let's see how far i can go.
 - [React and Next.js]()
 - [Node.js and Back-end]()
 - [MongoDB]()
-  
-### weekly overview
-- primary target was to brush up the fundamentals for a kickstart. focused a lot on javascript. started working on [Marketplace](https://github.com/ashutosh-dave/marketplace). also, got my hands dirty with react.js
 
-### technologies, libraries, or frameworks, i learned or worked with, during these 15 weeks.
+### Weekly Overview 📅
+- **Primary target** was to brush up the fundamentals for a kickstart. Focused a lot on JavaScript. Started working on [Marketplace](https://github.com/ashutosh-dave/marketplace). Also, got my hands dirty with React.js.
 
-| languages | frameworks | libraries | database | tools |
-|:---------:|:----------:|:---------:|:--------:|:-----:|
-|php|bootstrap|reactjs|mysql|git|
+### Technologies, Libraries, or Frameworks I Learned or Worked With During These 15 Weeks 💻
 
-### projects built
+| Languages | Frameworks | Libraries | Databases | Tools |
+|:---------:|:----------:|:---------:|:---------:|:-----:|
+| PHP       | Bootstrap  | React.js  | MySQL     | Git   |
+
+### Projects Built 🛠️
 - [Marketplace](https://github.com/ashutosh-dave/Marketplace) : e-Commerce store built using PHP, JavaScript, jQuery, AJAX, and MySQL.
-- [TaskTrek](https://github.com/ashutosh-dave/task-trek) : Gamified to-do list to get the best out of your day. Built it while learning ReactJS
+- [TaskTrek](https://github.com/ashutosh-dave/task-trek) : Gamified to-do list to get the best out of your day. Built it while learning ReactJS.
 
+### Badges
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
