@@ -29,7 +29,7 @@ good luck to me! let's see how far i can go. 🚀
 - [mongodb]()
 
 ### weekly overview 📅
-- primary target was to brush up the fundamentals for a kickstart. focused a lot on javascript. started working on [marketplace](https://github.com/ashutosh-dave/marketplace). also, got my hands dirty with react.js.
+- __*week-1*__: primary target was to brush up the fundamentals for a kickstart. focused a lot on javascript. started working on [marketplace](https://github.com/ashutosh-dave/marketplace). also, got my hands dirty with react.js.
 
 ### technologies, libraries, or frameworks i learned or worked with during these 15 weeks 💻
 
