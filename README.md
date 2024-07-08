@@ -35,7 +35,7 @@ good luck to me! let's see how far i can go. 🚀
 
 | languages | frameworks | libraries | databases | tools |
 |:---------:|:----------:|:---------:|:---------:|:-----:|
-|-PHP       |-Laravel    |-jQuery    |-MySQL     |-Git   |
+|- PHP       |- Laravel    |- jQuery    |- MySQL     |- Git   |
 
 ### projects built 🛠️
 - [marketplace](https://github.com/ashutosh-dave/marketplace): e-commerce store built using php, javascript, jquery, ajax, and mysql.
