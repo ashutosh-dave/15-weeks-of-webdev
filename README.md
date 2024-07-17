@@ -4,7 +4,7 @@
 
 it's going to be an interesting journey. my current workplace requires me to write lots of php and jquery, but i am curious about all the hyped-up tech, libraries, and frameworks. if i don't get to work with them, i should at least give them a shot. learn new things as much as i can and, of course, build some cool projects around them.
 
-### starting from july 8, 2024
+### starting from august 2nd, 2024
 
 my approach is going to be simple: get familiar with the library/framework, think of a small project, build it, and gradually increase the complexity of the projects. i am not solidifying what i will learn and what i won't. i am keeping this journey as interesting and as flexible as it can be because it's a fun little challenge. learning is the primary goal, and dealing with the fomo of all the latest and hyped-up frameworks and libraries too. i have bought numerous courses too. i do want to finish them, or at least get some value out of them.
 
