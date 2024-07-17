@@ -1,6 +1,6 @@
 # 15-weeks-of-webdev 🚀
 
-**central point of the next 15-weeks. this repo primarily contains experiments, notes, and code from some follow-along tutorials. projects have their own separate repo which is linked below in the [projects](#projects-built-%EF%B8%8F) section.**
+**central point for the next 15-weeks. this repo primarily contains experiments, notes, and code from some follow-along tutorials. projects have their own separate repo which is linked below in the [projects](#projects-built-%EF%B8%8F) section.**
 
 *somewhere between learning and re-learning*
 
